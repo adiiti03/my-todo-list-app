@@ -1,4 +1,4 @@
-import './Assets/CSS/Todoitems.css'
+import './CSS/Todoitems.css'
 import tick from './Assets/tick.png';
 import not_tick from './Assets/not_tick.png' ;
 import cross from "./Assets/cross.png";

@@ -1,4 +1,4 @@
-import './Assets/CSS/Todo.css';
+import './CSS/Todo.css';
 import { useRef } from 'react';
 import { useState } from 'react';
 import { useEffect } from 'react';
